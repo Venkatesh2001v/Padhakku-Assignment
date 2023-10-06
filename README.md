@@ -1,3 +1,6 @@
+PLEASE FIND THE CODE IN "app.js" file, above READ.ME file
+
+
 Task Description: Create a User Sign-Up and Post Management API Task Objective: Create an API that allows users to sign up using their name and email, create posts with content and user field, delete posts by providing a postID, and fetch all posts made by a specific user.
 
 Task Requirements:
